@@ -1,6 +1,6 @@
 const args = process.argv.slice(2);
 const timer = function (args) {
-  console.log(args);
+  //console.log(args);
   if (args.length === 0) {
     return "";
   }
